@@ -2,9 +2,9 @@
 
 ##  오형석 吳炯錫 Oh-Hyeng-Seok
 
-| Command    | Description                                    |
+| 오형석   | 吳炯錫 Oh-Hyeng-Seok                                |
 | ---------- | ---------------------------------------------- |
-| git status | List all new or modified files                 |
+| 출생 | 1990년11월10일                 |
 | git diff   | Show file differences that haven't been staged |
 
 
