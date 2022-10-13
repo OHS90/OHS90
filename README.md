@@ -2,14 +2,10 @@
 
 ##  오형석 吳炯錫 Oh-Hyeng-Seok
 
-
-|왼쪽정렬|오른쪽 정렬|가운데 정렬|
-
-|:---|---:|:---:|
-
-|셀1|셀2|셀3|
-
-|셀4|셀5|셀6|
+| Command    | Description                                    |
+| ---------- | ---------------------------------------------- |
+| git status | List all new or modified files                 |
+| git diff   | Show file differences that haven't been staged |
 
 
 
