@@ -4,7 +4,8 @@
 
 吳炯錫 Oh-Hyeng-Seok
 
-사진
+![증명사진](https://user-images.githubusercontent.com/112455467/195646809-9c889d29-5ccd-4e6b-8e90-aff5effa9d12.jpg)
+
 
 출생 199011월10일(만31세)
 
