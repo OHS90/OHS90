@@ -26,20 +26,8 @@
 |set|dict|frozenset|chr|
 |unichr|ord|hex|oct|
 
-9/20
 
-| Data Type Conversion|
----
-| sr.No. | Function&Description |
-| :-------------: | :-------------: | 
-| int(x[,base] | x를 정수로 변환합니다. x가 문자열인 경우 베이스가 지정됩니다. | 
-9/20
 
-| Data Type Conversion|
----
-| sr.No. | Function&Description |
-| :-------------: | :-------------: | 
-| int(x[,base] | x를 정수로 변환합니다. x가 문자열인 경우 베이스가 지정됩니다. 
 9/20
 
 | Data Type Conversion|
